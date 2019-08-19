@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">犯罪意图</string>
+    <string name="crime_title_hint">犯罪的标题</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">解决</string>
+    <string name="crime_solved_label">是否解决</string>
+    <string name="date_picker_title">犯罪日期：</string>
+    <string name="new_crime">新的犯罪</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <string name="subtitle_format">%1$d 犯罪</string>
+    <string name="crime_suspect_text">选择嫌疑人</string>
+    <string name="crime_report_text">发送犯罪报告</string>
+    <string name="crime_report">%1$s!
+犯罪发生在 %2$s. %3$s, 和 %4$s
+</string>
+    <string name="crime_report_solved">案件已经解决</string>
+    <string name="crime_report_unsolved">案件没有解决</string>
+    <string name="crime_report_no_suspect">没有嫌疑人。</string>
+    <string name="crime_report_suspect">嫌疑人是 %s.</string>
+    <string name="crime_report_subject">犯罪意图报告</string>
+    <string name="send_report">发送犯罪报告通过</string>
+</resources>
